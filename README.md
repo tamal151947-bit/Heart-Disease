@@ -45,13 +45,18 @@ Ca (Number of major vessels)
 Thal (Thalassemia)
 
 ## 📁 File Structure
-Plaintext
-├── Machine.ipynb      # Data analysis, visualization, and model training
-├── app.py             # Streamlit web application code
-├── heart.csv          # Dataset used for training
-├── model.pkl          # The trained Decision Tree model
-├── requirements.txt   # List of dependencies for deployment
-└── README.md          # Project documentation
+
+├── Machine.ipynb         # Data analysis, visualization, and model training
+
+├── app.py                # Streamlit web application code  
+
+├── heart.csv             # Dataset used for training
+
+├── model.pkl             # The trained Decision Tree model
+
+├── requirements.txt      # List of dependencies for deployment
+
+└── README.md             # Project documentation
 
 ## 👨‍💻 Developer
  Tamal Kar
