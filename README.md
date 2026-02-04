@@ -53,3 +53,5 @@ Plaintext
 ├── requirements.txt   # List of dependencies for deployment
 └── README.md          # Project documentation
 
+## 👨‍💻 Developer
+ Tamal Kar
